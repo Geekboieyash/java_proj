@@ -15,8 +15,6 @@
 ## Add/Save User
 ![24](https://user-images.githubusercontent.com/55325635/225107114-beed0eb8-9bfe-4216-ba5a-994038865e16.jpeg)
 
-## Update User
-![27](https://user-images.githubusercontent.com/55325635/225107106-46bc8804-09ac-4c11-9069-8b42b42431b8.jpeg)
 
 
 
